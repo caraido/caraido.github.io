@@ -51,7 +51,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/BCI_society_meeting_2025.html";
-            },},{
+            },},{id: "news-alec-started-data-science-internship-in-ai-amp-amp-informatics-at-mayo-clinic-working-on-foundation-models-for-multimodal-healthcare-data",
+          title: '🎉 Alec started Data Science Internship in AI &amp;amp;amp; Informatics at Mayo Clinic,...',
+          description: "",
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
