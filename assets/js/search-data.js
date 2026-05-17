@@ -54,7 +54,7 @@ ninja.data = [{
             },},{id: "news-alec-started-data-science-internship-in-ai-amp-amp-informatics-at-mayo-clinic-working-on-building-and-evaluating-foundation-models-for-multimodal-healthcare-data",
           title: '🎉 Alec started Data Science Internship in AI &amp;amp;amp; Informatics at Mayo Clinic,...',
           description: "",
-          section: "News",},{id: "news-congratulation-to-alec-on-his-first-author-paper-published-at-nature-you-can-check-out-the-full-paper-here-or-if-you-want-to-read-the-digest-on-either-x-twitter-or-linkedin",
+          section: "News",},{id: "news-congratulation-to-alec-on-his-first-author-paper-published-at-nature-you-can-check-out-the-full-paper-here-or-if-you-want-a-quick-overview-the-news-amp-amp-views-article-is-here",
           title: '🎉 Congratulation to Alec on his first author paper published at Nature! You...',
           description: "",
           section: "News",},{
