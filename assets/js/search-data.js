@@ -57,6 +57,12 @@ ninja.data = [{
           section: "News",},{id: "news-congratulation-to-alec-on-his-first-author-paper-published-at-nature-you-can-check-out-the-full-paper-here-or-if-you-want-a-quick-overview-the-news-amp-amp-views-article-is-here",
           title: '🎉 Congratulation to Alec on his first author paper published at Nature! You...',
           description: "",
+          section: "News",},{id: "news-alec-started-his-internship-at-meta-as-a-research-scientist-intern-working-on-audio-machine-learning-and-large-language-models-llms",
+          title: '🎉 Alec started his internship at Meta as a Research Scientist Intern, working...',
+          description: "",
+          section: "News",},{id: "news-alec-s-first-author-paper-benchmarking-pathology-foundation-models-for-whole-slide-image-retrieval-across-tcga-is-now-published-in-npj-digital-medicine-check-out-the-full-paper-here",
+          title: '🎉 Alec’s first author paper benchmarking pathology foundation models for whole-slide image retrieval...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
