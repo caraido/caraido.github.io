@@ -53,6 +53,25 @@
   ],
   "work": [
     {
+      "name": "Meta",
+      "position": "Research Scientist Intern",
+      "url": "https://www.meta.com/",
+      "startDate": "2026-08-01",
+      "highlights": ["Research on audio machine learning and large language models (LLMs)."]
+    },
+    {
+      "name": "Mayo Clinic",
+      "position": "Data Science Intern, AI & Informatics",
+      "url": "https://www.mayo.edu/research/departments-divisions/artificial-intelligence-informatics/overview",
+      "startDate": "2026-01-01",
+      "endDate": "2026-03-01",
+      "highlights": [
+        "Led the largest zero-shot whole-slide image retrieval benchmark in computational pathology (first author, npj Digital Medicine).",
+        "Evaluated foundation model embeddings, multiple instance learning, and patch-level retrieval at scale.",
+        "Designed leakage-free cross-validation and error analysis to characterize model limits."
+      ]
+    },
+    {
       "name": "Northwestern University",
       "position": "Research Technologist at Gregory Schwartz Lab",
       "url": "https://sites.northwestern.edu/schwartzlab/",
@@ -121,25 +140,42 @@
       ]
     },
     {
-      "name": "Machine Learning and Data Science",
+      "name": "Machine Learning",
       "keywords": [
+        "Deep learning",
+        "Foundation models",
+        "Speech and audio models (Wav2Vec2.0, HuBERT)",
+        "Representation learning",
+        "Model interpretability and layer probing",
+        "Multiple instance learning",
+        "Variational autoencoders",
+        "Metric learning (triplet loss)",
+        "Neural decoding",
+        "Computer vision and pose estimation",
+        "Benchmarking and model evaluation",
         "PyTorch",
-        "Tensorflow",
-        "Scikit-learn",
-        "OpenCV",
-        "Wav2Vec2.0",
-        "Pandas",
-        "NumPy",
-        "Matplotlib",
-        "Seaborn",
-        "Plotly",
-        "Jupyter",
-        "DataJoints"
+        "TensorFlow",
+        "Scikit-learn"
       ]
     },
     {
       "name": "Software Development",
-      "keywords": ["Python", "C", "Matlab", "Git", "GitHub", "Docker", "Bash", "Markdown", "SQL"]
+      "keywords": [
+        "Python",
+        "C",
+        "Matlab",
+        "Git",
+        "GitHub",
+        "Docker",
+        "Bash",
+        "SQL",
+        "NumPy",
+        "Pandas",
+        "OpenCV",
+        "Jupyter",
+        "Matplotlib",
+        "DataJoints"
+      ]
     }
   ],
   "volunteer": [
@@ -155,10 +191,17 @@
   ],
   "publications": [
     {
+      "name": "Multi-institutional pan-cancer validation of pathology foundation models for whole-slide image retrieval using TCGA",
+      "publisher": "npj Digital Medicine",
+      "releaseDate": "2026-09-15",
+      "url": "https://doi.org/10.1038/s41746-026-03122-2",
+      "summary": "Benchmarked ten whole-slide image retrieval pipelines, including slide foundation models, attention-based MIL and patch-level retrieval, on 9,387 TCGA slides spanning 17 organs and 60 diagnoses, showing that performance is driven mainly by patch-level features and varies more across organs and diagnoses than across architectures."
+    },
+    {
       "name": "Active Dissociation of Intracortical Spiking and High Gamma Activity",
-      "publisher": "BioRxiv",
-      "releaseDate": "2025-07-11",
-      "url": "https://www.biorxiv.org/content/10.1101/2025.07.10.663559v1.abstract",
+      "publisher": "Nature",
+      "releaseDate": "2026-04-01",
+      "url": "https://doi.org/10.1038/s41586-026-10331-y",
       "summary": "Developed neurofeedback brain machine interfaces on primates in order to dissociate two highly correlated neural signals (spiking and high gamma activity), providing insight into brain machine interfaces signal sources."
     },
     {

@@ -30,12 +30,12 @@
 }
 
 @article{lei2026validation,
-  title={Validation of Whole-Slide Foundation Models for Image Retrieval in TCGA Data},
+  title={Multi-institutional pan-cancer validation of pathology foundation models for whole-slide image retrieval using TCGA},
   author={Lei, Tianhao and Esmaeilkhani, Parsa and Alfasly, Saghir and Uegami, Wataru and Boughey, Judy C. and Goetz, Matthew P. and Kalari, Krishna R. and Tizhoosh, H.R.},
-  journal={SSRN Preprint},
+  journal={npj Digital Medicine},
   year={2026},
-  publisher={Elsevier},
-  doi={10.2139/ssrn.6751891},
+  publisher={Nature Publishing Group UK London},
+  doi={10.1038/s41746-026-03122-2},
   preview={WSI_FM_benchmark.png},
   abstract={Foundation models are reshaping computational histopathology, yet their value for whole-slide image retrieval relative to strong patch-based and supervised aggregation baselines remains unclear. We benchmarked ten pipelines on 9,387 diagnostic slides spanning 17 organs and 60 diagnoses from The Cancer Genome Atlas (TCGA) using patient-level leave-one-patient-out evaluation. Methods included four pre-trained slide foundation models, a supervised attention-based multiple instance learning (ABMIL) aggregator on patch embeddings, and patch-level retrieval across five sampling densities. Performance varied more across organs and diagnoses than across architectures. Although the slide foundation model TITAN achieved the strongest overall results, its advantage was modest; ABMIL and patch-based methods reached comparable Top-1 and Top-3 accuracy, with no model consistently dominant. Morphologically distinctive entities approached ceiling performance, while rare, heterogeneous, and closely related subtypes remained challenging. Misclassifications aligned with organs exhibiting known interobserver variability, suggesting an intrinsic ceiling for morphology-only retrieval. Performance was driven primarily by patch-level feature representations, with limited benefit from slide-level aggregation, indicating aggregation may be unnecessary in many settings. These findings argue against a universally optimal architecture and instead support organ-resolved benchmarking, diagnosis-aware or ensemble strategies, stronger feature representations, and multimodal retrieval frameworks.}
 }

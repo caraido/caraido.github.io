@@ -27,9 +27,9 @@ Beyond my main projects, I’ve also worked on
 
 - [1] [Machine learning pipelines](https://github.com/caraido/PDVideoAnalysis) to classify stages of Parkinson’s disease with human movement features extracted from mono-camera videos.
 - [2] Improved clinical assessment for stroke patients during arm reaching with IMU and video recordings.
-- [3] designed neurofeedback paradigms to probe the [dissociation between spikes and high-gamma signals](https://doi.org/10.1101/2025.07.10.663559) for BCIs.
+- [3] designed neurofeedback paradigms to probe the [dissociation between spikes and high-gamma signals](https://doi.org/10.1038/s41586-026-10331-y) for BCIs.
 - [4] Built unsupervised models to [cluster animal behavior into interpretable motifs](https://github.com/caraido/TREBA).
-- [5] Built and ran [the largest zero-shot whole-slide image retrieval benchmark in computational pathology](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6751891) to date.
+- [5] Built and ran [the largest zero-shot whole-slide image retrieval benchmark in computational pathology](https://doi.org/10.1038/s41746-026-03122-2) to date.
 
 Together, these projects reflect my broader goal: combining modern AI technology and neuroscience knowledge to build state-of-art health products for human wellbeing.
 
